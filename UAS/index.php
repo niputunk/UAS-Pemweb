@@ -25,7 +25,7 @@
 		              <div class="brand-wrapper">
 		                <img src="assets/PC-LOGO.png" alt="logo" class="logo">
 		              </div>
-		              <p class="login-card-description">Sign into your account</p>
+					<center><p class="login-card-description">Sign into your account</p></center>
 		              	<form action="#!">
 		                  <div class="form-group">
 		                    <label for="email" class="sr-only">Email</label>
